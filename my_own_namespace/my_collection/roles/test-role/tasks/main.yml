@@ -1,0 +1,7 @@
+---
+- name: Test
+      my_own_collection:
+        name: {{ name }}
+        path: {{ path }}
+        content: "{{ content }}"
+
